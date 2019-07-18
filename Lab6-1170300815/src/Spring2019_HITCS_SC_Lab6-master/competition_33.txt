@@ -1,6 +1,0 @@
-ladderNum 3
-pedalNum 20
-timeSpan 3
-monkeyNum 100
-monkeySpan 10
-mostV 4
